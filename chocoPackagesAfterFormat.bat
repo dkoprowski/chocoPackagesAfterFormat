@@ -13,3 +13,4 @@ choco install -y visualstudiocode
 choco install -y slack
 choco install -y bulkrenameutility
 choco install -y clover
+choco install -y calibre
