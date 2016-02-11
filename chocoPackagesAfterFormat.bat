@@ -17,3 +17,4 @@ choco install -y calibre
 choco install -y openhardwaremonitor 
 choco install -y ccleaner
 choco install -y patheditor
+choco install -y greenshot
