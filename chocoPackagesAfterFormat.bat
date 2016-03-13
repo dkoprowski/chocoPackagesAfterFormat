@@ -18,5 +18,7 @@ choco install -y openhardwaremonitor
 choco install -y ccleaner
 choco install -y patheditor
 choco install -y greenshot
+choco install -y vlc
+choco install -y babun
 
 choco list -lo
