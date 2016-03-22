@@ -14,7 +14,8 @@ choco install -y slack
 choco install -y bulkrenameutility
 choco install -y clover
 choco install -y calibre
-choco install -y openhardwaremonitor 
+choco install -y hwmonitor
+choco install -y hwinfo
 choco install -y ccleaner
 choco install -y patheditor
 choco install -y greenshot
